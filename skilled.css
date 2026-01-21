@@ -111,10 +111,10 @@ button {
   background: linear-gradient(to bottom, #4851ff, #f02aa6);
   z-index: 0;
 }
-@media (max-width: 1629px) {
+@media (max-width: 1630px) {
   .absolute-div {
     right: 20px;
-    bottom: 230px;
+    bottom: 130px;
   }
 }
 /* ------------------  small divs styles ------------------ */
@@ -214,6 +214,7 @@ button {
 }
 /*------------------ FOOTER ------------------*/
 .footer {
+  width: 100%;
   background-color: #13183f;
   padding: 24px;
   display: flex;
