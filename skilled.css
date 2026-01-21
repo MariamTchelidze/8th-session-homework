@@ -111,6 +111,12 @@ button {
   background: linear-gradient(to bottom, #4851ff, #f02aa6);
   z-index: 0;
 }
+@media (max-width: 1629px) {
+  .absolute-div {
+    right: 20px;
+    bottom: 230px;
+  }
+}
 /* ------------------  small divs styles ------------------ */
 .hrs,
 .mmbrs {
